@@ -12,7 +12,7 @@ The script uses ssh for remote connection.
 
 3. backup2.sh
 Script named backup2.sh can be used for both local and remote connection. 
-That depends on the parameters which user enters when starting up the scripts.
+That depends on the parameters which user enters when starting up the script.
 The scripts makes a folder hierarchy depending on the type of the backup - 
 latest backup, daily, weekly or monthly. User can define the name of the backup, 
 repository name, email address on which the script will send the report, 
